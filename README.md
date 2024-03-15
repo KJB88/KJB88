@@ -1,3 +1,4 @@
+<!--
 Hello, my name is Kevin! I'm a Unity C# developer with over a decade of experience working in many different sectors! Most of my work has been NDA or IP owned by the company for their internal tooling, so my portfolio is a little bare outside of academic or personal projects!
 You can find my portfolio here: [http://kjb88.github.io](http://kjb88.github.io).
 Or you can find me at LinkedIn here: [http://www.LinkedIn.com/in/kevin-barr1988](http://www.LinkedIn.com/in/kevin-barr1988).
@@ -8,7 +9,7 @@ You can find my:
 'A Game in a Day' challenge repos here: [https://github.com/KJB88-A-Game-in-a-Day](https://github.com/KJB88-A-Game-in-a-Day)
 Academic Repos (warning, very old!) here: [https://github.com/KJB88-University] (https://github.com/KJB88-University]
 Old miscellaneous or archived repos here: [https://github.com/KJB88-Archive](https://github.com/KJB88-Archive]
-
+-->
 <!--
 **KJB88/KJB88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -1,5 +1,11 @@
 <!--
-Hello, my name is Kevin! I'm a Unity C# developer with over a decade of experience working in many different sectors! Most of my work has been NDA or IP owned by the company for their internal tooling, so my portfolio is a little bare outside of academic or personal projects!
+Hello, my name is Kevin! Gamer. Cat-dad (x4). Mental Health & Disability Rights advocate
+
+I'm a Unity C# developer with over a decade of experience working in many different sectors! 
+
+Most of my work has been NDA or IP owned by the company for their internal tooling, so my portfolio is a little bare outside of academic or personal projects!
+
+
 You can find my portfolio here: [http://kjb88.github.io](http://kjb88.github.io).
 Or you can find me at LinkedIn here: [http://www.LinkedIn.com/in/kevin-barr1988](http://www.LinkedIn.com/in/kevin-barr1988).
 All of my links are on the left, below my profile image here on Github too.

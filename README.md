@@ -16,9 +16,9 @@ You can find my:
 
 'A Game in a Day' challenge repos here: [https://github.com/KJB88-A-Game-in-a-Day](https://github.com/KJB88-A-Game-in-a-Day)
 
-Academic Repos (warning, very old!) here: [https://github.com/KJB88-University] (https://github.com/KJB88-University]
+Academic Repos (warning, very old!) here: [https://github.com/KJB88-University] (https://github.com/KJB88-University)
 
-Old miscellaneous or archived repos here: [https://github.com/KJB88-Archive](https://github.com/KJB88-Archive]
+Old miscellaneous or archived repos here: [https://github.com/KJB88-Archive](https://github.com/KJB88-Archive)
 
 All of my organization collections are listed below my profile image here on Github too.
 <!--

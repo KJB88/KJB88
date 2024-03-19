@@ -1,11 +1,9 @@
 # Welcome to my Humble Abode of Code
-******
 Hello, my name is Kevin! Gamer. Cat-dad (x4). Mental Health & Disability Rights advocate. A Compassionate Technical Leader within games technology.
 
 I'm a Unity C# developer with over a decade of experience working in many different sectors! I have worked in academia, games, manufacturing developing Unity-based solutions as simulations, immersive experiences and entertainment. These have targeted many platforms such as PC/MAC, Android/iOS, VR HMDs, MR HMDs, Web. Most of my work has been NDA or IP owned by the company for their internal tooling, so my portfolio is a little bare outside of personal projects!
 
 ## Socials
-******
 You can find my portfolio here: [http://kjb88.github.io](http://kjb88.github.io).
 
 Or you can find me at LinkedIn here: [http://www.LinkedIn.com/in/kevin-barr1988](http://www.LinkedIn.com/in/kevin-barr1988).
@@ -13,7 +11,6 @@ Or you can find me at LinkedIn here: [http://www.LinkedIn.com/in/kevin-barr1988]
 All of my links are on the left, below my profile image here on Github too.
 
 ## Repository Collections
-******
 My repositories are organized into different organizations to help keep things clean here.
 
 You can find my: 

@@ -6,11 +6,14 @@
   <h2>Intro</h2>
   <p>Hello, my name is Kevin! Gamer. Cat-dad (x4). Mental Health & Disability Rights advocate.</p>
   <p>
-  I'm a Unity C# developer with over a decade of experience working in many different sectors! I have worked in academia, games, manufacturing developing Unity-based solutions as simulations, immersive experiences and entertainment. These have targeted many platforms such as PC/MAC, Android/iOS, VR HMDs, MR HMDs, Web. 
+I'm a Unity C# developer with over a decade of experience working in many different sectors! I have worked in academia, games, manufacturing developing Unity-based solutions as simulations, immersive experiences and entertainment. These have targeted many platforms such as PC/MAC, Android/iOS, VR HMDs, MR HMDs, Web. Most of my work has been NDA or IP owned by the company for their internal tooling, so my portfolio is a little bare outside of personal projects!
   </p>
 </div>
-  <!---
-  Most of my work has been NDA or IP owned by the company for their internal tooling, so my portfolio is a little bare outside of personal projects!
+<div>
+  <h2>Repo Collections</h2>
+  Games Development: <a href="https://github.com/KJB88/Games-Development-Portfolio">https://github.com/KJB88/Games-Development-Portfolio</a>
+</div>
+<!---
 <div>
   <h2>Skills</h2>
   <h3>Games & Simulation Development</h3>

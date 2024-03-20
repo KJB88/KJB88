@@ -4,9 +4,14 @@
 </div>
 <div>
   <h2>Intro</h2>
-  <p>Hello, my name is Kevin! Gamer. Cat-dad (x4). Mental Health & Disability Rights advocate.</p>
   <p>
-I'm a Unity C# developer with over a decade of experience working in many different sectors! I have worked in academia, games, manufacturing developing Unity-based solutions as simulations, immersive experiences and entertainment. These have targeted many platforms such as PC/MAC, Android/iOS, VR HMDs, MR HMDs, Web. <br><br>Most of my work has been NDA or IP owned by the company for their internal tooling, so my portfolio is a little bare outside of personal projects!
+    Hello, my name is Kevin! Gamer. Cat-dad (x4). Mental Health & Disability Rights advocate.
+  </p>
+  <p>
+  I'm a <b>Unity C# developer</b> with over a decade of experience working in many different sectors! I have worked in academia, games, manufacturing developing Unity-based solutions as simulations, immersive experiences and entertainment. I'm currently making a push into <b>Full-Stack Development</b> as a career switch, but using the knowledge I've learned to work on games on the side.
+  </p>
+  <p>
+    Most of my work has been NDA or IP owned by the company for their internal tooling, so my portfolio is a little bare outside of personal projects!
   </p>
 </div>
 <div>

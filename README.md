@@ -29,7 +29,7 @@ I'm a Unity C# developer with over a decade of experience working in many differ
 </div>
 <div>
   <h2>Repo Collections</h2>
-  Games Development: 
+  <b>Games Development</b>: 
 
   C++ Projects:
   Web Dev:

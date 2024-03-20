@@ -11,7 +11,7 @@ I'm a Unity C# developer with over a decade of experience working in many differ
 </div>
 <div>
   <h2>Repo Collections</h2>
-  Games Development: <a href="https://github.com/KJB88/Games-Development-Portfolio">https://github.com/KJB88/Games-Development-Portfolio</a>
+  <b>Games Development</b>: <a href="https://github.com/KJB88/Games-Development-Portfolio">https://github.com/KJB88/Games-Development-Portfolio</a>
 </div>
 <!---
 <div>

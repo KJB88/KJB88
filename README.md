@@ -16,8 +16,10 @@
 </div>
 <div>
   <h2>Repo Collections</h2>
-  <b>Games Development</b>: <a href="https://github.com/KJB88/Games-Development-Portfolio">https://github.com/KJB88/Games-Development-Portfolio</a>
-  <b>Full-Stack Development</b>: <a href="https://github.com/KJB88/Full-Stack-Development-Portfolio">https://github.com/KJB88/Full-Stack-Development-Portfolio</a>
+  <ul>
+    <li><b>Games Development</b>: <a href="https://github.com/KJB88/Games-Development-Portfolio">https://github.com/KJB88/Games-Development-Portfolio</a></li>
+     <li><b>Full-Stack Development</b>: <a href="https://github.com/KJB88/Full-Stack-Development-Portfolio">https://github.com/KJB88/Full-Stack-Development-Portfolio</a></li>
+    </ul>
 </div>
 <!---
 <div>

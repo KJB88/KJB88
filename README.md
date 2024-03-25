@@ -1,6 +1,9 @@
 <div align="center">
   <h1>🤘Welcome to my Humble Abode of Code🤘</h1>
-  <a href="http://www.LinkedIn.com/in/kevin-barr1988">LinkedIn</a> | <a href="http://kjb88.github.io">Portfolio</a> | <a href="mailto:kevinbarr.business@gmail.com">Email</a>
+  <a href="http://www.LinkedIn.com/in/kevin-barr1988">LinkedIn</a> |
+  <a href="http://kjb88.github.io">Portfolio</a> |
+  <a href="mailto:kevinbarr.business@gmail.com">Email</a> |
+  <a href="https://github.com/KJB88">Github</a>
 </div>
 <div>
   <h2>Intro</h2>

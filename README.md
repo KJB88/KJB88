@@ -5,7 +5,7 @@
 <div>
   <h2>Intro</h2>
   <p>
-    Hello, my name is Kevin! Gamer. Cat-dad (x4). Mental Health & Disability Rights advocate.
+    Hello, my name is Kevin! Gamer. Cat-dad (x4). Mental Health & Disability Rights advocate. Creative Writer of absurdist parody.
   </p>
   <p>
   I'm a <b>Unity C# developer</b> with over a decade of experience working in many different sectors! I have worked in academia, games, manufacturing developing Unity-based solutions as simulations, immersive experiences and entertainment. I'm currently making a push into <b>Full-Stack Development</b> as a career switch, but using the knowledge I've learned to work on games on the side.

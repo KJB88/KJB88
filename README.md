@@ -20,8 +20,8 @@
 <div>
   <h2>Repo Collections</h2>
   <ul>
-    <li><b>Games Development</b>: <a href="https://github.com/KJB88/Games-Development-Portfolio">https://github.com/KJB88/Games-Development-Portfolio</a></li>
-     <li><b>Full-Stack Development</b>: <a href="https://github.com/KJB88/Web-Development-Portfolio">https://github.com/KJB88/Web-Development-Portfolio</a></li>
+    <li>🎮<b>Games Development</b>: <a href="https://github.com/KJB88/Games-Development-Portfolio">https://github.com/KJB88/Games-Development-Portfolio</a></li>
+     <li>🕸️<b>Web Development</b>: <a href="https://github.com/KJB88/Web-Development-Portfolio">https://github.com/KJB88/Web-Development-Portfolio</a></li>
     </ul>
 </div>
 <!---

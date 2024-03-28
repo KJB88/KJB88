@@ -1,12 +1,14 @@
-<div align="center">
-  <h1>🤘Welcome to my Humble Abode of Code🤘</h1>
-  <a href="http://www.LinkedIn.com/in/kevin-barr1988">LinkedIn</a> |
-  <a href="http://kjb88.github.io">Portfolio</a> |
-  <a href="mailto:kevinbarr.business@gmail.com">Email</a> |
-  <a href="https://github.com/KJB88">Github</a>
-</div>
-<div>
-  <h2>Intro</h2>
+<section aria-labe="Welcome section with all my links">
+  <div align="center">
+    <h1>🤘Welcome to my Humble Abode of Code🤘</h1>
+    <a href="http://www.LinkedIn.com/in/kevin-barr1988">LinkedIn</a> |
+    <a href="http://kjb88.github.io">Website</a> |
+    <a href="mailto:kevinbarr.business@gmail.com">Email</a> |
+    <a href="https://github.com/KJB88">Github</a>
+  </div>
+</section>
+<section aria-label="About Me">
+  <h2>About Me</h2>
   <p>
     Hello, my name is Kevin! Gamer. Cat-dad (x4). Mental Health & Disability Rights advocate. Creative Writer of absurdist parody.
   </p>
@@ -16,14 +18,23 @@
   <p>
     Most of my work has been NDA or IP owned by the company for their internal tooling, so my portfolio is a little bare outside of personal projects!
   </p>
-</div>
-<div>
+</section>
+<section aria-label="Collection of my code repositories">
   <h2>Repo Collections</h2>
   <ul>
     <li>🎮<b>Games Development</b>: <a href="https://github.com/KJB88/Games-Development-Portfolio">https://github.com/KJB88/Games-Development-Portfolio</a></li>
      <li>🕸️<b>Web Development</b>: <a href="https://github.com/KJB88/Web-Development-Portfolio">https://github.com/KJB88/Web-Development-Portfolio</a></li>
     </ul>
-</div>
+</section>
+<section aria-label="Get in touch with me">
+  <h2>Get in Touch!</h2>
+  <p>
+    Feel free to get in touch with me on any platform. I'm always happy to talk code, design, games or show you pictures of my cats! If you have any professional opportunities for me, feel free to get in touch via LinkedIn or Email and I'll get back to you ASAP.
+  </p>
+  <p>
+     Looking forward to meeting you!
+  </p>
+</section>
 <!---
 <div>
   <h2>Skills</h2>

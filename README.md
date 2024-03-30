@@ -32,7 +32,7 @@
       <h3>Professional</h3>
       <ul>
         <li>
-          <b>Unity Development</b>: I'm a <b>Unity C# developer</b> with over a decade of experience working in many different sectors! I have worked in academia, games, manufacturing; all developing Unity-based solutions as simulations, immersive experiences, entertainment and supporting tool development. I hav
+          <b>Unity Development</b>: I'm a <b>Unity C# developer</b> with over a decade of experience working in many different sectors! I have worked in academia, games, manufacturing; all developing Unity-based solutions as simulations, immersive experiences, entertainment and supporting tool development.
         </li>
         <!--
         <li>

@@ -27,6 +27,9 @@
         <li>My dream is to open up my own games studio one day (and also fill it with cats).</li>
       </ul>
     </p>
+    <p>
+      You can read more about me at my personal website here: <a href="http://kjb88.github.io">http://kjb88.github.io</a>!
+    </p>
   </section>
     <section aria-label="Professional About Me">
       <h3>Professional</h3>

@@ -35,19 +35,29 @@
       <h3>Professional</h3>
       <ul>
         <li>
-          <b>Unity Development</b>: I'm a <b>Unity C# developer</b> with over a decade of experience working in many different sectors! I have worked in academia, games, manufacturing; all developing Unity-based solutions as simulations, immersive experiences, entertainment and supporting tool development.
+          <b>Unity Development</b>: I'm a <b>Unity C# developer</b> with over a decade of experience working in many different sectors! I have worked in academia, games, manufacturing; all developing Unity-based solutions as simulations, immersive experiences, entertainment and supporting tool development. These projects were spread across many platforms (PC/Mac, iOS/Android, Oculus/HTC HMDs) for many different business reasons; helping to guide business decisions, improving education and training, analysis within industrial simulations, facilitation of workflow for designers, users and partners through custom tooling and good, old fashioned gaming fun!
         </li>
-        <!--
+        <br>
         <li>
-          <b>Leadership</b>: 
+          <b>Leadership</b>: I have built and led a team from concept whiteboard to successful delivery (and beyond!) as a technical leader. I use my compassionate approach to leadership to create an open, kind, happy, health and motivational environment for my team to work in. I have, as part of my leadership roles; built, implemented and established tech-stacks, workflows, initiatives and individual professional growth plans designed to improve productivity, produce strong, frequent and regular output and provide opportunities to help others grow withih their career and the company.
       </li>
-        -->
+       <br>
         <li>
-          <b>Full Stack Development</b>: I'm currently making a push into <b>Full-Stack Development</b> as a secondary career. I use my knowledge and perspective gained over my career working in the creative industry to drive my development in unique and innovative ways.
+          <b>Full Stack Development</b>: I'm currently making a push into <b>Full-Stack Development</b> as a secondary career. I use my knowledge and perspective gained over my career working in the creative industry to drive my development in unique and innovative ways. 
+          <p>
+            For front-end technologies: I am currently experienced with: Bootstrap, Jekyll, JavaScript, HTML/CSS.<br>
+            I am currently learning: React, Next.js, TailwindCSS. 
+          </p> 
+          <p>
+            For back-end technologies, I am currently experienced with: ASP.NET Core, MVC, EntityFramework, MySQL.<br>
+            I am currently learning: PostgreSQL, Node.js, Clerk Auth, ExpressJS.</p> <p> Other tech I'm working on is: Redis and Vercel.
+            </p> 
         </li>
       </ul>
       <div align="center">
-        Most of my work has been NDA or IP owned by the company for their internal tooling, so my portfolio is a little bare outside of personal projects!
+        <p>
+        <b>Most of my work has been NDA or IP owned by the company for their internal tooling, so my portfolio is a little bare outside of personal projects!</b>
+          </p>
       </div>
   </section>
   <section aria-label="Supplemental About Me">
@@ -75,7 +85,8 @@
 <section aria-label="Get in touch with me">
   <h2>Get in Touch!</h2>
   <p>
-    Feel free to get in touch with me on any platform. I'm always happy to talk code, design, games or show you pictures of my cats! If you have any professional opportunities for me, feel free to get in touch via LinkedIn or Email and I'll get back to you ASAP.
+    Feel free to get in touch with me on any platform. I'm always happy to talk code, design, games or show you pictures of my cats!<br>
+    If you have any professional opportunities for me, feel free to get in touch via LinkedIn or Email and I'll get back to you ASAP.
   </p>
   <p>
      Looking forward to meeting you!

@@ -54,11 +54,6 @@
             </p> 
         </li>
       </ul>
-      <div align="center">
-        <p>
-        <b>Most of my work has been NDA or IP owned by the company for their internal tooling, so my portfolio is a little bare outside of personal projects!</b>
-          </p>
-      </div>
   </section>
   <section aria-label="Supplemental About Me">
     <h3>Supplemental</h4>
@@ -81,6 +76,11 @@
     <li>🎮<b>Games Development</b>: <a href="https://github.com/KJB88/Games-Development-Portfolio">https://github.com/KJB88/Games-Development-Portfolio</a></li>
      <li>🕸️<b>Web Development</b>: <a href="https://github.com/KJB88/Web-Development-Portfolio">https://github.com/KJB88/Web-Development-Portfolio</a></li>
     </ul>
+    <div align="center">
+      <p>
+        <b>Most of my work has been NDA or IP owned by the company for their internal tooling, so my portfolio is a little bare outside of personal projects!</b>
+      </p>
+    </div>
 </section>
 <section aria-label="Get in touch with me">
   <h2>Get in Touch!</h2>

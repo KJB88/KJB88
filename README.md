@@ -1,10 +1,7 @@
 <section aria-labe="Welcome section with all my links">
   <div align="center">
     <h1>🤘Welcome to my Humble Abode of Code🤘</h1>
-    <a href="http://www.LinkedIn.com/in/kevin-barr1988">LinkedIn</a> |
-    <!--<a href="http://kjb88.github.io">Website</a> | -->
-    <a href="mailto:kevinbarr.business@gmail.com">Email</a> |
-    <a href="https://github.com/KJB88">Github</a>
+    🌴<a href="https://linktr.ee/kjb88">Linktree</a>🌴
   </div>
 </section>
 <section aria-label="About Me">

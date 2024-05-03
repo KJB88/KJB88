@@ -2,7 +2,7 @@
   <div align="center">
     <h1>🤘Welcome to my Humble Abode of Code🤘</h1>
     <a href="http://www.LinkedIn.com/in/kevin-barr1988">LinkedIn</a> |
-    <a href="http://kjb88.github.io">Website</a> |
+    <!--<a href="http://kjb88.github.io">Website</a> | -->
     <a href="mailto:kevinbarr.business@gmail.com">Email</a> |
     <a href="https://github.com/KJB88">Github</a>
   </div>
@@ -28,7 +28,7 @@
       </ul>
     </p>
     <p>
-      You can read more about me at my personal website here: <a href="http://kjb88.github.io">http://kjb88.github.io</a>!
+     <!-- You can read more about me at my personal website here: <a href="http://kjb88.github.io">http://kjb88.github.io</a>! -->
     </p>
   </section>
     <section aria-label="Professional About Me">

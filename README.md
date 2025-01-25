@@ -42,7 +42,7 @@
         <li>
           <b>Full Stack Development</b>: I have a working familiarity with common full-stack technologies such as:
           <p>
-            For front-end technologies: I am currently experienced with: Bootstrap, Jekyll, JavaScript, HTML/CSS, React, Next.js, TailwindCSS, PostgreSQL, Node.js, Clerk Auth, ExpressJS. 
+            Bootstrap, Jekyll, JavaScript, HTML/CSS, React, Next.js, TailwindCSS, PostgreSQL, Node.js, Clerk Auth, ExpressJS. 
         </li>
       </ul>
   </section>

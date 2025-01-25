@@ -40,15 +40,9 @@
       </li>
        <br>
         <li>
-          <b>Full Stack Development</b>: I'm currently making a push into <b>Full-Stack Development</b> as a secondary career. I use my knowledge and perspective gained over my career working in the creative industry to drive my development in unique and innovative ways. 
+          <b>Full Stack Development</b>: I have a working familiarity with common full-stack technologies such as:
           <p>
-            For front-end technologies: I am currently experienced with: Bootstrap, Jekyll, JavaScript, HTML/CSS.<br>
-            I am currently learning: React, Next.js, TailwindCSS. 
-          </p> 
-          <p>
-            For back-end technologies, I am currently experienced with: ASP.NET Core, MVC, EntityFramework, MySQL.<br>
-            I am currently learning: PostgreSQL, Node.js, Clerk Auth, ExpressJS.</p> <p> Other tech I'm working on is: Redis and Vercel.
-            </p> 
+            For front-end technologies: I am currently experienced with: Bootstrap, Jekyll, JavaScript, HTML/CSS, React, Next.js, TailwindCSS, PostgreSQL, Node.js, Clerk Auth, ExpressJS. 
         </li>
       </ul>
   </section>

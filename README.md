@@ -66,7 +66,6 @@
   <ul>
     <li>🎮<b>Games Development</b>: <a href="https://github.com/KJB88/Games-Development-Portfolio">https://github.com/KJB88/Games-Development-Portfolio</a></li>
      <li>🕸️<b>Web & Full Stack Development</b>: <a href="https://github.com/KJB88/Full-Stack-Portfolio">https://github.com/KJB88/Full-Stack-Portfolio</a></li>
-     <li>🕸️<b>Minecraft Mod Development</b>: <a href="https://github.com/KJB88/Minecraft-Modding-Portfolio">https://github.com/KJB88/Minecraft-Modding-Portfolio</a></li>
     </ul>
     <div align="center">
       <p>

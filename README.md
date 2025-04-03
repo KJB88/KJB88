@@ -43,6 +43,7 @@
           <b>Full Stack Development</b>: I have a working familiarity with common full-stack technologies such as:
           <p>
             Bootstrap, Jekyll, JavaScript, HTML/CSS, React, Next.js, TailwindCSS, PostgreSQL, Node.js, Clerk Auth, ExpressJS. 
+          </p>
         </li>
       </ul>
   </section>
@@ -61,6 +62,7 @@
     </ul>
   </section>
 </section>
+<!--
 <section aria-label="Collection of my code repositories">
   <h2>Repo Collections</h2>
   <ul>
@@ -73,6 +75,7 @@
       </p>
     </div>
 </section>
+-->
 <section aria-label="Get in touch with me">
   <h2>Get in Touch!</h2>
   <p>
@@ -106,7 +109,7 @@
   
 
 </div>
-  -->
+-->
 <!--
 **KJB88/KJB88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
